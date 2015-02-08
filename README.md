@@ -1,0 +1,1 @@
+Quick simple Octave/Matlab experiment for finding out how polynomial regression is related to linear regression. Shows potential for feature extraction (note to self: automatic analysing of scaled y - X*t graph would be sufficient to work out the missing feature)
